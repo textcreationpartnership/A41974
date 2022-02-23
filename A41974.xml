@@ -1,0 +1,354 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short discourse. Or, serious reflections and meditations on some particular texts of scripture Being the substance of several sermons preached in a country congregation. Wherein is shewed, first, the blessedness of those that keep Gods Commandments. And secondly, the happiness of such as mind their creator betimes, very briefly and succinctly handled. Written by F.G. master of arts, and chaplain to the right honourable Robert Earl of Scarsdale.</title>
+            <author>Gallimore, Francis, 1628 or 9-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41974</idno>
+            <idno type="STC">Wing G180A</idno>
+            <idno type="STC">ESTC R223628</idno>
+            <idno type="EEBO-CITATION">99833917</idno>
+            <idno type="PROQUEST">99833917</idno>
+            <idno type="VID">38395</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41974)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38395)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1830:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short discourse. Or, serious reflections and meditations on some particular texts of scripture Being the substance of several sermons preached in a country congregation. Wherein is shewed, first, the blessedness of those that keep Gods Commandments. And secondly, the happiness of such as mind their creator betimes, very briefly and succinctly handled. Written by F.G. master of arts, and chaplain to the right honourable Robert Earl of Scarsdale.</title>
+                  <author>Gallimore, Francis, 1628 or 9-1698.</author>
+               </titleStmt>
+               <extent>[4], 24, 27-29, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Hen. Hammond bookseller at Bath, and at the Devizes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>F.G. = Francis Gallimore.</note>
+                  <note>Text and register are continuous despite pagination.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Meditations --  Early works to 1800.</term>
+               <term>Obedience --  Religious aspects --  Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38395:1" rendition="simple:additions"/>
+            <p>A Short Diſcourſe, OR, Serious REFLECTIONS AND MEDITATIONS On ſome particular Texts of Scripture. Being the ſubſtance of ſeveral Sermons preached in a Country Congregation. Wherein is ſhewed,
+<list>
+                  <item>Firſt, The Bleſſedneſs of thoſe that keep Gods Com<g ref="char:EOLhyphen"/>mandments.</item>
+                  <item>And Secondly, the Happineſs of ſuch as mind their Crea<g ref="char:EOLhyphen"/>tor betimes, very briefly and ſuccinctly handled.</item>
+               </list>
+            </p>
+            <p>Written by <hi>F. G.</hi> Maſter of Arts, and Chaplain to the Right Honourable <hi>Robert</hi> Earl of <hi>Scarſdale.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>ECCLES. XII. 13.</hi>
+               </bibl>
+               <p>Let us hear the concluſion of the whole matter, fear God and keep his Com<g ref="char:EOLhyphen"/>mandments, for this is the whole Duty of Man.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Hen. Hammond</hi> Bookſeller at <hi>Bath,</hi> and at the <hi>Devizes,</hi> 1694.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:38395:2"/>
+            <pb facs="tcp:38395:2"/>
+            <head>To the Reverend Dr. Tho. Burnet, Maſter of the Charter-Houſe, and Clerk of the Cloſet to His Majeſty.</head>
+            <opener>
+               <salute>Reverend Sir,</salute>
+            </opener>
+            <p>WHere I owe a true Deference and Reſpect I would willingly declare it, for I leſs dread the cenſure of Oſten<g ref="char:EOLhyphen"/>tation than Ingratitude. I am ſenſible that the Age wherein we live is quick and critical, ſharp and cenſorious, in her deſcant of thoſe that appear in Print: However, I will ra<g ref="char:EOLhyphen"/>ther hazard the imputation of a dull melan<g ref="char:EOLhyphen"/>choly Man, than of an unthankful; he that doth but tacitly confeſs the Kindneſſes of a Friend, in a manner interrs them; when he
+<pb facs="tcp:38395:3"/>that publiſheth them hath in part requited, tho not fully compenſated.</p>
+            <p>To whom ſhould I commend the Patronage of this Diſcourſe, better than to him who is a Favourite and Lover of Truth, and of ſuch as favour and love the Truth? Beſides I have taſted of your Kindneſs towards me, which I ever eſteemed as a Debt lying upon me, and am therefore deſirous ſo far to diſcharge it, as to leave ſome ſmall Me<g ref="char:EOLhyphen"/>moir to others of a kind Reſentment.</p>
+            <p>My earneſt Prayer to God, even the Fa<g ref="char:EOLhyphen"/>ther of all Mercies, is, and ever ſhall be, to protract your Days, and to preſerve You unto his heavenly Kingdom, which is the ſincere Deſire, and unfeigned Vote of,</p>
+            <closer>
+               <salute>Worthy Sir,</salute> 
+               <signed>
+                  <hi>Your moſt obliged, and humble Servant,</hi> Fr. Gallimore.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb n="1" facs="tcp:38395:3" rendition="simple:additions"/>
+            <head>PART. I. Shewing the Bleſſedneſs of thoſe that keep his Commandments.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>REVEL. XXII. 14.</hi>
+                  </bibl>
+                  <p>Bleſſed are they that do his Commandments, that they may have right to the Tree of Life, and may enter in thro the Gates into the City.</p>
+               </q>
+            </epigraph>
+            <p>BLeſſedneſs is the mark we all aim at, if that be once named, there needs no other Rhetorick to make us all attentive; moſt properly therefore it is placed the firſt word, ſeeing the firſt words are the pro<g ref="char:EOLhyphen"/>per place to perſwade attention. But who are they that are bleſſed, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>they that do his command<g ref="char:EOLhyphen"/>ments: Keep my commandments and live,</hi> ſaith wiſdom, Prov. 7.2. Live indeed, live cheerfully with the comforts of this life, which makes life to be life, and live happily in the life of glory hereafter. Now the benefit being ſo great, of keeping Gods Commandments, our care muſt not be little for the keeping of them, that ſo we may have right to <hi>the tree of life,</hi> even that tree <hi>which is in the midſt of the Paradice of God,</hi> Rev. 2.7. and may enter in thro the Gates into the City.</p>
+            <pb n="2" facs="tcp:38395:4" rendition="simple:additions"/>
+            <p> To theſe laſt words of the verſe I have bounded and li<g ref="char:EOLhyphen"/>mited my diſcourſe; wherein I find theſe three particulars readily offering themſelves to be conſidered.</p>
+            <p>Firſt, The motion, what, <hi>an entrance.</hi> Secondly, The manner how, <hi>thro the Gates:</hi> and Thirdly, The place whi<g ref="char:EOLhyphen"/>ther, <hi>into the City.</hi> Of theſe in their order; and firſt of the motion, <hi>enter in.</hi>
+            </p>
+            <p>They are bleſſed that enter in, perſeverance only makes happy; we know who hath taught us, that only continuers to the end ſhall be ſaved. It is obſervable, that in the holy Spirits letters ſent to thoſe ſeven Churches in the ſecond and third Chapters of this Book, all promiſes run to perſeverers; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>to him that overcometh; nec paranti ad praelium nec pugnanti ad ſanguinem, ſed vincenti ad victoriam,</hi> not to him that draws the Sword, nor to him that ſpendeth his blood, but to him that overcometh to Conqueſt.</p>
+            <p>To him that overcometh pleaſure, and abſtains from ſin<g ref="char:EOLhyphen"/>ful delights, I will give hidden Manna; to him that over<g ref="char:EOLhyphen"/>cometh covetouſneſs, and eſteemeth not of worldly traſh and earthly treaſure, I will give a white Stone; to him that overcometh ambition, and ſeeketh not for a name upon earth, I will give a new name written in heaven: For tho all vertues run in the race of a Chriſtian liſe, yet perſeve<g ref="char:EOLhyphen"/>rance alone obtaineth the Garland: Suppoſe a Ship fraught with rich Merchandize to have held a proſperous courſe all the way, and eſcaped both Rocks and Pirats, yet if it be caſt away in the Haven, the owner is nothing the better for it, but loſeth both his goods and hope: So all our voyage is loſt through the perilous Sea of this world, if we ſuffer ſhipwrack in the Haven, and loſe our reward there, where we ſhould land to receive it.</p>
+            <p>
+               <hi>Cicero</hi> tells us of one <hi>Lepidus,</hi> lying all along upon the graſs cried out, <hi>utinam hoc eſſet laborare,</hi> O that this were to labour and get the maſtery: So, many ſtretching themſelves upon their Ivory Beds, and living at eaſe in <hi>Sion,</hi> ſay with<g ref="char:EOLhyphen"/>in
+<pb n="3" facs="tcp:38395:4" rendition="simple:additions"/>themſelves, Oh that this were to go in warfare and fight under the Croſs, but let them not deceive themſelves, Hea<g ref="char:EOLhyphen"/>ven is not got with a wiſh, nor victory with a breath, it will coſt us many a ſore blow, and wound too before we overcome; wherefore the Apoſtles exhortation, <hi>Eph.</hi> 6.11. comes ſeaſonably in here, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, put on the whole Armor of God, that ye may be able to ſtand a<g ref="char:EOLhyphen"/>gainſt the aſſaults of the world, the fleſh and the devil, ſtre<g ref="char:EOLhyphen"/>nuouſly, valiantly, conſtantly, never putting off your ar<g ref="char:EOLhyphen"/>mour, till you put off your bodies; nor quitting the field, till you enter into the celeſtial <hi>Canaan;</hi> Saint <hi>Paul</hi> ſought out this combat, even to victory, tho he bore in his body the marks of the Lord Jeſus, <hi>I have fought a good fight, I have finiſhed my courſe, I have kept the faith,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c. Therefore now there is laid up for me a Crown of Right<g ref="char:EOLhyphen"/>eouſneſs, which the Lord the righteous Judge ſhall give me,</hi> &amp;c.</p>
+            <p>There is a laſt enemy to be deſtroyed, Death, we muſt hold out to the conqueſt even of this laſt adverſary, which if it conquer us by the ſting of our ſin, ſhall ſend us to the doors of hell; if we conquer it by our faith, it ſhall ſend us to the Gates of this City Heaven, my ſecond particular. And now awaits your obſervation, the manner how thro the gates; not ſingularly a gate, but gates, for <hi>Chap.</hi> 21.12. the City is ſaid to have twelve gates, on the Eaſt three gates, on the North three, on the South three, and on the Weſt three; to declare, that men ſhall come from the Eaſt and from the Weſt, from the North and from the South, and ſhall ſit down in the Kingdom of God: theſe gates are not literally, but myſtically to be underſtood, <hi>pro modo intrandi,</hi> for the manner of entrance.</p>
+            <p>Theſe gates are thoſe paſſages whereby we muſt enter this City, Heaven is often ſaid to have a gate, <hi>Mat.</hi> 7.13 <hi>ſtrive to enter in at the ſtrait gate,</hi> ſaith Chriſt. <hi>Solomon</hi> made two doors for the entering the Oracle, they were made of Olive
+<pb n="4" facs="tcp:38395:5"/>Trees, and wrought upon with the Carvings of Cheru<g ref="char:EOLhyphen"/>bims, 1 <hi>King</hi> 6.32. the Olives promiſing fatneſs and plenty of bleſſings, the Cherubims holineſs and eternity, theſe are holy gates.</p>
+            <p>Let every one pray with the Royal Prophet, <hi>Open to me the gates of righteouſneſs, I will go into them, and I will praiſe the Lord; this is the gate of the Lord, into which the righteous ſhall enter.</hi> In brief, we may diſtinguiſh the gates leading to this City into two, Adoption and Sanctification, both theſe meet in Chriſt, who is the only gate or door whereby we enter heaven. <hi>I am the door,</hi> ſaith our Saviour, <hi>Jo.</hi> 10.9. <hi>Ja<g ref="char:EOLhyphen"/>nua vitae,</hi> the gate of life, <hi>by me if any enter in he ſhall be ſaved.</hi> Adoption, is the firſt gate, the inheritance of glory can't be given to the Children of Diſobedience; they muſt firſt be converted, and adopted Heirs in Chriſt: Adoption, ſaith <hi>Seneca,</hi> is a moſt ſacred thing, containing in it an imitation of Na<g ref="char:EOLhyphen"/>ture civilly giving them Sons, whom Nature hath left childleſs; or as the Juriſt define it, a legal ſupply of a na<g ref="char:EOLhyphen"/>tural defect, whereby they that can beget no Children, yet make Heirs to propagate their names to poſterity: But ſpi<g ref="char:EOLhyphen"/>ritual Adoption differs far from it, for it's a lawful act, not imitating, but tranſcending nature, found out by the Lord himſelf; not for the comfort of a Father that wants Chil<g ref="char:EOLhyphen"/>dren, but for the comfort of Children that wants a Father; we being by nature miſerable Orphans, having no Father to provide for us, it pleaſed the Lord our God to become our Father in Chriſt, and to make us by Adoption his Sons and Daughters, not for any benefit he receives of us, for nothing can accreſs by means of any creature, to that moſt high and all ſufficient Majeſty; <hi>ſed ut haberet, in quem ſua beneficia collicaret;</hi> but that he might have ſome upon whom he may beſtow his benefits for the declaration of the glory of his mercy.</p>
+            <p>If by the grace of adoption, God make us his Sons, by the grace of regeneration, he ſhall make us new creatures;
+<pb n="5" facs="tcp:38395:5" rendition="simple:additions"/>all the Sons of God are partakers of the divine nature; take heed therefore unto your lives and converſations.</p>
+            <p>For if ye go on to ſpend the remainder of your days after the inordinate luſts of the fleſh, and walk on in gluttony and drunkenneſs, in chambering and wantonneſs, in adul<g ref="char:EOLhyphen"/>tery, covetouſneſs, and ſuch other works of uncleanneſs; we muſt ſay unto you, that ye have not God for your Father, but ye are of your Father the Devil, becauſe you do his works; except we ſee in you the image and ſuper<g ref="char:EOLhyphen"/>ſcription of God, and that you have inſculpt and graven in your converſation, as <hi>Aaron</hi> had upon his frontlet, <hi>holineſs unto the Lord,</hi> Exod. 28.36. we cannot bleſs you in the name of the Lord, nor acknowledge you for ſuch as are his by Adoption. Again, Sanctification is the ſecond gate, <hi>except a man be born again he cannot ſee God,</hi> Jo. 3.3. holi<g ref="char:EOLhyphen"/>neſs is the way to happineſs, grace is the gate of glory; <hi>without holineſs no man ſhall ſee the Lord,</hi> Heb. 12.14. and what is man before he is new born but a deformed creature, conceived of an unclean ſeed, wormed in a ſinful womb, and in his birth no leſs ſtained and polluted with ſin than in his blood; how needful now is a new birth to man in this caſe.</p>
+            <p>Can he enter into heaven that ſavors all of earth, will thoſe precious gates of Gold and Pearls open to a ſinner; a vile, obdurate, obſtinate ſinner? No, he muſt firſt be new moulded, and model'd, and ſanctified, or he is excepted, except a man be new born, and this man is every man, and every part of man.</p>
+            <p>Sanctification (if ſaving) muſt be perfect and entire, tho not in reſpect of degrees, yet in reſpect of parts, every part and power both of body and ſoul muſt have its part of ſanctification, tho no part his full perfection, until the diſſo<g ref="char:EOLhyphen"/>lution of our earthly tabernacles.</p>
+            <p>And as the School diſtinguiſheth, it muſt be <hi>communiter in toto, &amp; univerſaliter in ſingulis partibus,</hi> but not <hi>totaliter
+<pb n="6" facs="tcp:38395:6"/>&amp; perfectè,</hi> this ſanctification muſt be communicated to the whole man, and univerſally propagated to every part, tho it hath in no place of man a total perfection Hence (ſay Divines) there is ſanctification inchoate and conſummate, be<g ref="char:EOLhyphen"/>gun here in this life of grace, and perfected in the life of glory hereafter.</p>
+            <p>No ſin is to be cheriſhed in hope of mercy, but we muſt ſtrive for every grace we have not, and for the increaſe of every grace we have, let us make much therefore of that we poſſeſs, and ſtill ſeek for more, ſtriving to the mark, <hi>Phil.</hi> 3.14. and yet when all is done, think nor that thou mayeſt catch the Crown of Life by rightful deſert.</p>
+            <p>That thou art not able to perform, wert thou as righteous as <hi>Noah,</hi> as obedient as <hi>Abraham,</hi> as holy as <hi>Job,</hi> as faithful as <hi>David,</hi> as clear as the Sun, as pure as the Stars in Hea<g ref="char:EOLhyphen"/>ven; yet thou muſt ſigh with a better ſoul than thine own, who ſaid, and ſighed for the impurity of all fleſh, Lord be merciful to me a ſinner, and enter not into judgment with us.</p>
+            <p>Now ſince this gate ſtands in our own heart, I ſhall thus deſcribe it, and that briefly by its properties and parts.</p>
+            <p>The properties are two, it is low, and it is little, and therefore we muſt contract our large extenſions if we will fit our ſelves for that narrow way and little gate; they muſt ſtoop that will enter in here.</p>
+            <p>
+               <hi>He hath filled the hungry with good things, and the rich he hath ſent empty away:</hi> the rich in their own conceits, and proud of their own worth, ſhall be ſent empty from this gate.</p>
+            <p>The firſt praecipice or downfal to hell, both in Angel and Man, was by Pride; therefore humility muſt needs be the firſt ſtep to heaven.</p>
+            <p>He that means to build high, muſt lay his Foundation low: all thoſe precious and reſplendent ſtones reckoned up in the Apocalyps, <hi>cap.</hi> 21.19. were placed in the foundation
+<pb n="7" facs="tcp:38395:6"/>of the heavenly city; to teach us, that all chriſtian vertues are grounded in humility.</p>
+            <p>If a Veſſel be full it will receive no more liquor be it never ſo ſovereign and precious; the proud and high minded man is full of his of his grown gifts and perfections, and therefore letteth not into his ſoul the wholeſom dew of Gods grace. Holy <hi>Auſtin</hi> confeſſeth with tears, that his ſwelling greatneſs and tumor of pride, would not ſuffer him for a long time, to enter in at the narrow gate that leadeth unto life; in whoſe tears many of our gallant Sparks and high Spirits may read the cauſe, why they are ſo uſually poor and naked, and blind in the inward man; and tho oft-times neareſt to the Court of Princes, yet fartheſt off from the Kingdom of God.</p>
+            <p>The advice then of St. <hi>Peter</hi> comes ſeaſonably in here, 1 <hi>Pet.</hi> 5.6. <hi>Humble your ſelves under the mighty hand of God, that he may exalt you in due time;</hi> the words are not with<g ref="char:EOLhyphen"/>out their ſtrength of Emphaſis, here is an <hi>humili animi,</hi> crown'd with an <hi>ut exaltet,</hi> humble your ſelves that he may exalt, as if humility was ſo neceſſary a diſpoſition to pre<g ref="char:EOLhyphen"/>ſerment, that without it God might not exalt.</p>
+            <p>There is no vertue drawn by the Pencil of God in more lively colours, with brighter beams of his favour ſhining on them than humility. Jeſus Chriſt, the mirror of all per<g ref="char:EOLhyphen"/>fection, ſetteth it out as his chiefeſt jewel, <hi>Learn of me,</hi> ſaith he, <hi>for I am meek and humble in heart,</hi> Matt 11.29. they muſt be little that enter theſe gates, little in their own eyes, ſlender in the opinion of themſelves; whoſoever ſhall not receive the Kingdom of God as a little child, he ſhall not enter therein; and ſo much of the properties.</p>
+            <p>The parts are now to be conſidered, and theſe are four; the foundation is Faith, one of the ſides Patience, the other Innocence, the roof Charity: Faith is the foundation, by it we have <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> acceſs unto God, and that with boldneſs, by this we lay hold on the Throne of Grace, by this we ad<g ref="char:EOLhyphen"/>here and cloſe unto God, and proſtrate our ſelves at his feet;
+<pb n="8" facs="tcp:38395:7"/>by this we live in Chriſt, and Chriſt in us; by this our hearts are purified, our conſciences waſhed with the Blood of Chriſt, and fitted to ſee God, and to enter into the Holy of Holies, unto which no unclean thing can be admitted: He that hath faith ſhall enter, and ſhall not come into con<g ref="char:EOLhyphen"/>demnation, but is paſſed from death to life</p>
+            <p>Again, Patience is one of the Pillars, <hi>Heb.</hi> 10.36. <hi>Ye have need of patience that when ye have done the will of God, ye might receive the promiſe. Juſtin Martyr</hi> being asked, which, was the greateſt miracle that our Saviour Chriſt wrought anſwered, <hi>Patientia ejus tanta in laboribus tantis,</hi> his ſo great patience in ſo great troubles.</p>
+            <p>Many are the infirmities and troubles to which every man is ſubject; in his body he is ſubject to diſeaſes, in his eſtate to loſſes, in his name to ſlanders and falſe reports; but theſe reach not his Spirit, unleſs himſelf do lend his hand unto them; therefore if ſickneſs do afflict thy body, let not this make thy ſpirit ſick and afflicted with impatient ſorrow; what tho thy eſtate be diminiſhed by loſſes, let not this thro impatiency diminiſh thy chearfulneſs, or breed any loſs of comfort to thy ſpirit; what tho thy name be wronged by heavy ſlanders or falſe reports, wrong not thy ſpirit thro impatiency by heavineſs and grief, but rather follow our Saviours exhortation, <hi>Luk.</hi> 21.19. <hi>In your patience poſſeſs your ſouls, i. e.</hi> live joyfully, bleſſedly even under the croſs, that when ye have ſuffered before the gates, ye may enter into the City.</p>
+            <p>Innocence is the other Pillar, but who can ſay he hath innocent hands, and a ſimple heart; indeed none perfectly in Gods ſight, yet ſome had, and may have this in part, by the witneſſes of their own conſciences. <hi>Samuel</hi> could chal<g ref="char:EOLhyphen"/>lenge the <hi>Iſraelites</hi> to accuſe him, <hi>Whoſe Ox have I taken, whom have I defrauded,</hi> 1 Sam. 12.3. and <hi>Job</hi> ſweetly, my heart ſhall not condemn me for my days, if I have lift up my hands againſt the fatherleſs let it be broken; if I rejoyced
+<pb n="9" facs="tcp:38395:7"/>at the deſtruction of him that hated me, then let mine arm fall from my ſhoulder blade, and my arm be broken from the bone, <hi>Job</hi> 31.21.</p>
+            <p>
+               <hi>Triumphus innocentiae eſt non peccare ubi potest,</hi> it is the triumph of innocence not to offend when it may; for it is true innocence, ſaith <hi>Austin, quae nec inimico nocet,</hi> that hurts not our very enemy; <hi>if my land cry against me, or the farrows thereof complain, let thiſtles grow inſtead of wheat, and cockles inſtead of barley,</hi> Job 31.38, 40. How few among us dare thus plead? So <hi>David, O Lord, thou knoweſt mine innocence.</hi>
+            </p>
+            <p>
+               <hi>In malis ſperare bonum niſi innocens nemo poteſt,</hi> faith the moral Heathen; to hope for good in the midſt of evils, no man can but the innocent. Innocence, ſaith <hi>Chryſostom,</hi> is free in ſervitude, ſafe in danger, joyful in bonds.</p>
+            <p>But alas, where ſhall robbers and workers of violence ap<g ref="char:EOLhyphen"/>pear? What ſhall become of the cruel, griping, bowel-leſs extortioner? No creature in heaven or earth ſhall teſtifie his innocency; but the ſighs and cries of many which he hath undone, ſhall witneſs the contrary.</p>
+            <p>Where ſhall fraud, cozenage, injury, perjury, miſchief appear? You may conceal your craft from the eyes of men, defraud your Miniſter, beguile your Neighbor unperceived, unpuniſhed, but know that the Lord will not hold you guiltleſs. <hi>I will waſh my hands in innocency, ſo will I compaſs thine Altar, O Lord,</hi> ſaith the Royal Prophet, <hi>Pſal.</hi> 26.6. if innocence muſt lead us to the Altar on earth, ſure that muſt be our gate to the glory of heaven.</p>
+            <p>Charity is the roof, <hi>diligendo perficitur,</hi> love makes up the building; man indeed is naturally a loving creature, but doth not always place his love aright; his love then is beſt placed, when it is placed upon the beſt object, and that is God: If he place it upon Beauty that fadeth; if upon Riches they periſh; if upon Honor that vaniſheth; if upon
+<pb n="10" facs="tcp:38395:8"/>Life that waſteth; but all theſe are in God, not only in emi<g ref="char:EOLhyphen"/>nency, but continuance.</p>
+            <p>In him Beauty that never fadeth; in him Riches that never periſh; in him Honor that never vaniſheth; in him Life that never waſteth; and therefore, as he is the trueſt object of love, ſo he ſhould be the deareſt object of our Love. <hi>Quanta eſt Charitas? Auſtin, quaeſi deſit fruſtra habentur caetera, ſi adſit rectè habentur omnia.</hi> How great is love? for if it be wanting, all other graces loſe their grace; but if preſent, all are profitable.</p>
+            <p>And <hi>Theodoret</hi> asking, wherein conſiſted the image of God in man, anſwereth in a charitable bounty, wherein he imitateth God. Yea <hi>Tully</hi> ſaith, <hi>Homines ad Deum nulla re proprius accedunt quam dando,</hi> men in nothing come nearer to God than in giving.</p>
+            <p>It was the folly of the rich Glutton, that he wanted Barns to lay his Corn in, whereas there was ſo many empty Bel<g ref="char:EOLhyphen"/>lies of the poor, into which he might have put it, and where it would have been laid up for ever for him; for he that giveth to the poor ſhall not lack, ſhall not lack that which he hath given, ſhall not lack any thing that is good.</p>
+            <p>Perhaps, ſaith <hi>Cyprian,</hi> if thou giveſt much, thou mayſt be afraid, leſt thy ſelf ſhould come to want, <hi>ſed eſto hac in parte intrepidus, eſto ſecurus, &amp;c.</hi> but in this point be with<g ref="char:EOLhyphen"/>out fear, be ſecure, that cannot be ended, which is expended for the uſe of Chriſt.</p>
+            <p>He that is a liberal ſoul indeed, and plentifully watereth the dry and thirſty ſouls of Chriſt, ſhall himſelf be watered with the precious blood of Chriſt, and drinking of that ſpring of life ſhall never thirſt again.</p>
+            <p>The Prophet <hi>Iſay</hi> hath a compariſon to the ſame pur<g ref="char:EOLhyphen"/>poſe, <hi>cap.</hi> 58.10. <hi>If thou draw out thy ſoul to the hungry, and ſatisfy the afflicted ſoul, the Lord ſhall ſatisfy thy ſoul conti<g ref="char:EOLhyphen"/>nually in drought, and withal make fat thy bones, and thou
+<pb n="11" facs="tcp:38395:8"/>ſhalt be like a watered garden, and like a ſpring of water whoſe waters fail not.</hi>
+            </p>
+            <p>Love therefore thy Neighbor as thy ſelf, and love the poor for Gods ſake, and love God above all; we are to love God above all.</p>
+            <p n="1">1. <hi>Appretiativè,</hi> ſetting a higher price upon his glory and command, than upon any other thing beſides. 2. <hi>Intenſivè,</hi> with the greateſt efforts and intention of our ſpirits, ſetting no bounds and meaſure to our love of him. 3. <hi>Adequatè,</hi> as the compleat, perfect, and adequate object of all our love, in whom it muſt begin, and in whom it muſt end.</p>
+            <p>But there is a ſort of love, or luſt rather, which is con<g ref="char:EOLhyphen"/>demned, and that is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the paſſion of concupi<g ref="char:EOLhyphen"/>ſcence, whereby many laſcivious men do wholly devote and dedicate themſelves to ſome vain creature, pleaſing their fan<g ref="char:EOLhyphen"/>cies, to the diſpleaſing of God, and to the piercing of their ſouls one day for it; and except it do, to the utter ruine both of body and ſoul.</p>
+            <p>Who admires not the wiſdom of <hi>Demoſthenes,</hi> in the an<g ref="char:EOLhyphen"/>ſwer he returned to <hi>Corinthian Lais (Paenitere tanti non emo)</hi> I will not buy repentance at ſo dear a rate: Certainly had he not known it from a ſelf-experience, 'tis not poſſible an Hea<g ref="char:EOLhyphen"/>then ſhould have ſpoken ſo divinely, for all our diſhoneſt actions are but earneſts laid down for grief; ſin on the beſt condition brings repentance, but for ſin without repentance is provided hell: Yea, 'tis not folly but madneſs, even the higheſt, that makes a man buy his vexation. O let us force our ſelves to want that willingly, which we cannot enjoy without future diſguſt; ſo that the ſum is this, there is no entrance to the city but by the gates, no paſſage to glory but by grace; to thoſe ſpirits of juſt men made perfect muſt be admitted none, ſave they that are juſtified; none are en<g ref="char:EOLhyphen"/>tertained, but ſuch as are waſhed white in the blood of Chriſt, and keep white their own Innocency. The Adul<g ref="char:EOLhyphen"/>terer for a while may flatter Beauty, the Swearer grace his
+<pb n="12" facs="tcp:38395:9"/>words with Oaths, the Drunkard kiſs his Cups, and drink his bodys health, till he bring his ſoul to ruine; but do they think to enter this city? No, the gate is kept as the gate of Paradice, with a Flaming Sword of Juſtice to keep them out.</p>
+            <p>The Adulterer ſhall ſatisfie his luſt when he lies on a Bed of Fire, all embrac'd with thoſe Flames; the Swearer ſhall have enough of Wounds and Blood, when Devils torture his body and wrack his ſoul in Hell; the Drunkard ſhall have a plenty of his Cups, when ſcalding Lead ſhall be poured down his throat, and his breath draw Flames of Fire inſtead of Air; as is thy ſin, ſo is the nature of thy puniſhment; the juſt Judge ſhall give juſt meaſure, and the ballance of his wrath poiſe in a juſt proportion; ſo that thoſe that will not paſs thro the gates of holineſs in this life, ſhall not enter the city of happineſs in the life to come; thus have we paſſed the gates, and are now come to the city.</p>
+            <p>Now if I had been wrapt up to the third heaven, or had the Angels Reed wherewith he meaſured the Wall, <hi>Rev.</hi> 21.17. I might ſay ſomething to the deſcription of this City; but it is not for us, ſaith <hi>Bernard,</hi> in theſe earthly bodies to mount into the Clouds, and peirce this fulneſs of light; to break into this bottomleſs depth of glory, this is reſerved to the laſt day.</p>
+            <p>And yet, becauſe God in his word hath given us a taſte of heaven, by comparing it to the moſt precious things on earth, let us conſider in this City three things; the Im<g ref="char:EOLhyphen"/>menſity, Society, Glory.</p>
+            <p>And firſt we may gueſs at the immeaſurable magnitude of this City, by thoſe many Manſions ſpoken of by Chriſt, <hi>Jo.</hi> 14.2. <hi>In my Fathers houſe are many manſions.</hi> How many? So many, ſaith one, as would ſuffice a thouſand worlds of men; and tho all men in this world attain not to it, it is not for want of room, but of will; they believe not in him who hath prepared theſe gates for them.</p>
+            <pb n="13" facs="tcp:38395:9" rendition="simple:additions"/>
+            <p> Secondly, If ſuch be the immenſity, what think you is the glory? Is it not a moſt glorious City whoſe Walls are of Jaſper, whoſe Building is of Gold, whoſe Gates are of Pearls, whoſe Foundation is of precious Stones? Yea, when I behold the Pavement of Heaven ſtuck with Stars, as ſo many ſparkling Diamonds, how deſpicable is the ſtatelieſt Pallace of the greateſt Monarch, and if the Pavement be ſo glorious, what ſhall we think of thoſe better parts yet unſeen? great and glorious things are ſpoken of thee, thou City of God; a glorious City indeed, where there is Holi<g ref="char:EOLhyphen"/>neſs immaculate, Peace inviolate, Joy ineffable, Pleaſure inexpreſſible, no Time but Eternity, no Place but immen<g ref="char:EOLhyphen"/>ſity. But becauſe no tongue can ſo well expreſs it as his whoſe eyes did clearly behold it, be pleas'd to hear it in St. <hi>John</hi>'s own words, <hi>Rev.</hi> 21.4. and may we not be well contented to ſerve an Apprenticeſhip here, ſo we may come to be free of this City hereafter: <hi>God ſhall wipe away all tears from all eyes, there ſhall be no more ſorrow, nor crying, nor pain, neither any more death:</hi> The dying life we live here, 'tis a lamp that muſt out, a ſhadow that will vaniſh, a graſs that will wither; in Heaven it is protracted into Eternity, beyond the threats of mortality or corruption.</p>
+         </div>
+         <div n="2" type="part">
+            <pb n="14" facs="tcp:38395:10"/>
+            <head>PART. II. Shewing the Happineſs of thoſe that mind their Creator betimes.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ECCLES. XII. 1.</hi>
+                  </bibl>
+                  <p>Remember now thy Creator in the days of thy Youth, before the evil days come, <hi>&amp;c.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>THey are the words of the wiſeſt Preacher next our bleſſed Saviour, who vouchſaſed the honour not to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Gods own Secretary to pen this holy Tract, this heavenly Treatiſe, who ſpake not <hi>quicquid in buccam,</hi> &amp;c. as his own fancy carried him or ide<g ref="char:EOLhyphen"/>ated to him; but as the Holy Ghoſt directed him, his tongue being but the pen, the bleſſed ſpirit the ready writer, which therefore ought to be read with reverence, felt with paſſion, followed with perſeverance; and this for the Preacher, to wit <hi>Solomon: Remember therefore thy Creator.</hi>
+            </p>
+            <p>The Memory of man is indeed a moſt excellent faculty, being that thing whereby we preſerve thoſe things which time hath ſpent and waſted, whereby the things that are abſent are ſtill preſent, and the things that are gone from us do abide with us.</p>
+            <pb n="15" facs="tcp:38395:10" rendition="simple:additions"/>
+            <p> Indeed it is that without which the life of man would be moſt wretched and miſerable: <hi>Seneca</hi> therefore ſaith well, he that keeps not in memory the things that are paſt, hath little better than loſt his life given him in this world.</p>
+            <p>Now if our memory be ſo excellent a faculty, how great reaſon have we to remember our Creator, by whom it hath been beſtowed upon us; ſhould not God remember us in his providence and protection over us? ſhould not he re<g ref="char:EOLhyphen"/>member us in troubles and diſtreſſes, and when we have caſt away our ſelves in our Sins, what would become of us? but tho God be moſt graciouſly mindful of us, how little mind have we of him.</p>
+            <p>We ſay of one, that he hath a good memory, becauſe he keepeth firmly and a long time that which he hath received: we ſay of another that he hath an excellent memory, be<g ref="char:EOLhyphen"/>cauſe he can repeat many things as ſoon as they are propo<g ref="char:EOLhyphen"/>ſed unto him.</p>
+            <p>But he hath a good memory indeed that remembreth good things carefully; he hath an excellent memory that remembreth God who is good above all things: <hi>Remember therefore thy Creator in the days of thy Youth.</hi> A chief reaſon that makes young people not to remember God their Crea<g ref="char:EOLhyphen"/>tor is this, becauſe they think that they have a long time to live in the world, and tho they forget him now, yet they will remember him hereafter: but to remove this, the Preacher ſaith, not in the time but in the days of thy youth, to ſhew both to young and old that our life is but for a few days.</p>
+            <p>And <hi>Seneca</hi> ſaith well, that tho death be before the old mans face, yet he may be as near to the young mans back; let him therefore while he hath day, remember his Creator in the day of his youth; indeed the Creator muſt always he remembred, not only in youth but in old age, not only in the days of youth, but all the days of our Life.</p>
+            <pb n="16" facs="tcp:38395:11"/>
+            <p> For as <hi>Zachary</hi> ſaith, he redeemed us that we might ſerve him in righteouſneſs and holineſs all the days of our life. <hi>Luk.</hi> 1.73. So he hath created us, that we might remem<g ref="char:EOLhyphen"/>ber him all the days of our life: <hi>Remember therefore thy Creator,</hi> &amp;c. Now a duty and a date, will divide the Preach<g ref="char:EOLhyphen"/>ers Text; the duty, what? <hi>Remember thy Creator:</hi> the date, when? <hi>In the days of thy youth.</hi> In the former you have a truth approved, verily your Creator is to be remembred; in the latter a time appointed, in the days of thy youth. But not to make the Preachers Text like a Mathematical line infinitely diviſible; in the firſt, obſerve a word of ex<g ref="char:EOLhyphen"/>hortation, tending to a holy life and a godly converſation; in the latter, a wiſe prevention of an erroneous conceit of our corrupt nature, parallel to him that ſaid, <hi>da mihi caſti<g ref="char:EOLhyphen"/>tatem ſed noli modo;</hi> So here we all intend to remember our Creator, but when? not yet, but hereafter, when the Even<g ref="char:EOLhyphen"/>ing of old age cometh, or the night of death approacheth; no ſuch delay, no ſuch deluſion, obſerve your ſeaſon in the days of your youth.</p>
+            <p>Oh remember thy Creator in the days of thy youth, be<g ref="char:EOLhyphen"/>cauſe it's uncertain whether ever thou ſhalt be old; there are many old which have been young, but many are young which ſhall never be old: Time and Age, God as a wiſe diſpencer hath kept in his own hands, to the intent and purpoſe, that we might ſuſpect a ſhorter thread of life, but yet not deſpair of a longer. Now to enter the treaty of the duty, our Saviours queſtion, <hi>John</hi> 16.18. falls fitly in here, <hi>Remember thy Creator;</hi> we know not what he ſaith, <hi>remem<g ref="char:EOLhyphen"/>ber him,</hi> why? who forgets him? Not the good man. For <hi>Have I not remembred thee in my bed, and thought upon thee when I was waking.</hi> You know whoſe ſpech it was, <hi>Pſal.</hi> 63.6. No, nor the wicked neither; for no ſooner hath a diſtemper'd paſſion heated their blood, but the very firſt breath of their Lips, is either a Curſe or an Oath, as if they would ſwear away ſad diſaſters, which every ungracious
+<pb n="17" facs="tcp:38395:11"/>ſpeech brings on nearer, binds on faſter; ſo the Pſalmiſt hath ſealed their doom. <hi>As he loved Curſing ſo let it come unto him, and as he delighted not in Bleſſing, ſo let it be far from him.</hi> But let us not with our ignorance caſt aſperſion upon the Preachers knowledge; and therefore to give you the ſenſe, and cauſe you to underſtand the reading, obſerve the <hi>Chaldee</hi> Pataphraſt, <hi>&amp; eſto memor Creatoris tui ut glori<g ref="char:EOLhyphen"/>fices eum:</hi> let the ſtream of thy meditations ſo run upon him, that thou mayeſt glorify him.</p>
+            <p>The which we do, when we derive all our actions and intentions from his ſacred truth, which give rules not only to live well, and to ſpeak well, but even <hi>ad bene cogitandum,</hi> to think well.</p>
+            <p>Oh, let no purpoſe paſs currant from thine heart, till God hath ſet his ſeal on it, and ſtamp of approbation; let his word give it a <hi>fiat;</hi> whatſoever you do, yea or intend to do, let both action of hand, and thought of heart be all to Gods glory.</p>
+            <p n="2">2. Again, let his will be thy law, his word thy rule, his Sons life thy example, his Spirit rather than thine own Soul, the guide of thine actions, the ſteer and Cynoſure of thine affections.</p>
+            <p n="3">3. To ſtudy brevity, the faithful are called, 1 <hi>Pet.</hi> 2.9. Kings and Prieſts; the remembrance whereof ſhould work a Kingly and Prieſtly mind in every one of us, to rule over our affections, as <hi>Leo</hi> excellently teacheth, <hi>nil tam Regium, &amp;c.</hi> nothing is ſo kingly, as when a mind ſubject to God ruleth the body; nothing ſo Prieſtly, as to vow unto God a pure conſcience, and to offer up the immaculate ſacrifice of piety upon the Altar of the Heart: But I ſhall perſue this no further here, becauſe I ſhall meet it again in the next branch, expreſſing the time when we ought to reduce this meditation into practice, this doctrine to doing, to wit, in the days of our Youth. As one ſaith of <hi>Pſalm</hi> 41.1. <hi>bleſſed is he that conſidereth the poor,</hi> &amp;c. that it is <hi>ſcriptura paupe<g ref="char:EOLhyphen"/>rum,</hi>
+               <pb n="18" facs="tcp:38395:12"/>the poor mans Scripture; ſo of this it may be rightly ſaid, that it is <hi>ſcriptura juvenum,</hi> the young mans theme; which given by divine inſpiration, is profitable to teach him the Apoſtles leſſon, conſiſting of two counter-points, a <hi>ſuge</hi> and a <hi>fac,</hi> a diſſwaſive caution, fly youthful luſts; a per<g ref="char:EOLhyphen"/>ſwaſive Canon, and follow after righteouſneſs, faith, love and peace, which have the promiſes both of this life, and of that which is to come, both of bleſſings temporal, and bliſs eternal.</p>
+            <p>Which obſervation we may crown with this corrollary, or doctrinal propoſition, that the beſt time, and fitteſt ſea<g ref="char:EOLhyphen"/>ſon to ſow the ſeeds of vertue, that it may bring forth fruit in holineſs, and the end everlaſting happineſs, is the firſt and flouriſhing part of our age, the ſtrength and vigour of our years; or to retain the words of the text, <hi>the days of our youth.</hi>
+            </p>
+            <p>For elucidation whereof, <hi>David</hi>'s queſtion is here to take place, <hi>Pſal.</hi> 119.9. <hi>Wherewithal ſhall a young man cleanſe his way, by taking heed thereto according to thy word?</hi> Again, it was Gods ordinance, that in their Meat-offerings of firſt fruits, they ſhould offer up, <hi>Levit.</hi> 2.14. green ears of corn, or corn beaten out of green ears; and what was this, but <hi>alte<g ref="char:EOLhyphen"/>rius rei aenigma,</hi> one thing mentioned, and another meant; to wit, that God loves that we ſhould conſecrate and dedi<g ref="char:EOLhyphen"/>cate our young and tender years to his ſervice, and not put it off as too many do, to the very Autumn and fall of their lives.</p>
+            <p>
+               <hi>Optima quae<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> dies, &amp;c.</hi> our beſt days firſt run, and our worſt at the laſt, and ſhall we offer that indignity to the divine Majeſty, as to give him the Devils leavings; <hi>Florem aetatis Diabolo conſecrare, faecem Deo reſervare;</hi> to conſecrate the flower of our age to the Devil, the World and the Fleſh, and to reſerve the Lees and bitter Dregs for God; and what is this then to offer up, <hi>Malachi</hi> 1.8, 13. the blind and the lame for ſacrifice, which God abhorreth, and to break that
+<pb n="91" facs="tcp:38395:12"/>golden rule laid down by our Saviour, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſeek firſt, <hi>&amp;c. Mat.</hi> 6.33. ſeek his face always, not when, but when not; ſo with theſe few to ſhut up thereſt that run in the ſame current; Hear ye now my reaſonings, to ſpeak in <hi>Job</hi>'s language, <hi>Job</hi> 13.6. and hearken ye unto the argu<g ref="char:EOLhyphen"/>ments of my Lips, thereby to give it an edge, that ſo it may make the better expreſſion to you, the ſpeedier, the deeper impreſſion upon you.</p>
+            <p>The firſt reaſon may be drawn from the infinite mercy of God, which is as the Pſalmiſt ſpeaks, <hi>Pſalm</hi> 100.5. <hi>From everlasting to everlaſting;</hi> from everlaſting election unto ever<g ref="char:EOLhyphen"/>laſting glorification, a fit theme for Angels to deſcant on; for what man of art, or art of man, can deſcribe or decipher it? for if God remembred man, before he, or the world was, cannot the ſimpleſt Intellect extract the inference, ſhall we not remember him in time, betimes?</p>
+            <p>Secondly, If all examples have an influence on the pra<g ref="char:EOLhyphen"/>ctice of the beholders, then eſpecially the deeds of good men, regiſtred in Scripture (the Calendar of eternity) are moſt attractive of imitation: Pray then caſt your eye up<g ref="char:EOLhyphen"/>on <hi>Joſeph,</hi> who withſtood the impure and impudent ſolici<g ref="char:EOLhyphen"/>tations of his wanton Miſtriſs in the Flower of his Youth, <hi>Gen.</hi> 39.9. the moſt ſlippery time of his age, an age as moſt prone to many others, ſo eſpecially to this ſin <hi>Joſiah</hi> the King ſought the Lord while he was yet young, 2 <hi>Chron.</hi> 34.2. <hi>Obadiah</hi> ſeared the Lord from his youth; but to bring my beſt wine at the laſt, and to trace the Apoſtle in his own Rhetorick, if theſe prevail not, <hi>Look to Jeſus the author and finiſher of our faith,</hi> Heb. 12.2. not only the author to call us to it, and ſet us in it, but the finiſher alſo to help us thro it, and reward us for it; look to him, who at the age of twelve years went about his fathers buſineſs.</p>
+            <p>Thirdly, We ought, and 'tis our duty, to ſpend the prime of our days in the ſervice of God, who being our Creator, and exceeding great Rewarder, is moſt worthy of it, and
+<pb n="20" facs="tcp:38395:13"/>that is, whilſt our ſences are ſharp, our memories quick, our wits ripe, our capacities ready, our underſtandings deep, not knowing how ſoon theſe may fail us, and how ſuddenly death may find us.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi> ſuch is the generation of men, as of leaves, ſaith the Heathen Poet <hi>Homer,</hi> for as many leaves are nipped off in the bud, ſo many young men are cut off in their youth; for are we not poor mortal creatures, brothers to the worms, and ſiſters to the duſt? do we not carry about with us ſouls full of corruption, and skins full of diſeaſes? is not our breath in our noſtrils, where there is room enough for it to go out, and poſſibility never to come in again? Each of theſe by it ſelf, all theſe laid together, will make a weighty argument, bearing down, and forcing our aſſent to this aſſertion; that the Spring of Youth is that age, which God hath moſt inabled us to do him beſt ſervice.</p>
+            <p>Now to make ſome improvement of this doctrine, Firſt, The word of God hath two edges, <hi>Heb.</hi> 4.12. and if it go one way thus, <hi>pro primis unquiculis,</hi> for the timely beginnings of grace and goodneſs; it cuts as deep on the contrary, even beyond admiration of many imperious and impetuous youth, who have built the frame of their lives upon the foundation of long practiſed wantonneſs, guiding their lives by pleaſure, and their reaſon by luſt; and being reproved, What, ſay they? Are we not young and ſtrong? As if God had given them their ſtrength to riſe up againſt him, and to run with others into all manner of exceſs of riot, or as tho they had learned that language of the unwiſe Tutor in the Comick, <hi>non eſt mihi crede vitium, &amp;c.</hi> it is nothing for a young man to let looſe the reins to all licentiouſneſs, to drink wine in bowls, and to take their fill of pleaſure here, as if they were re<g ref="char:EOLhyphen"/>ſolved with <hi>Dives,</hi> that they ſhould not get a drop of water in Hell: If this be no ſin, why doth <hi>David</hi> lament him of the ſins of his youth? why doth <hi>Job</hi> threaten them with the ſins of their youth, that ſhall lie down with them in the
+<pb n="21" facs="tcp:38395:13" rendition="simple:additions"/>grave, <hi>Job.</hi> 36.14. he who for one ſin puniſhed a world of men, how will he plague one man, tho a young man, for a world of ſin.</p>
+            <p>Secondly, Since our Creator is to be remembred in the days of our youth, here is a uſe for Parents to bring up their Children in the fear of the Lord, to catechize, initiate and enter them, properly to dedicate them, as they did their new houſes unto the Lord. St. <hi>Paul</hi> requireth the perform<g ref="char:EOLhyphen"/>ance of the ſame duty ſaying, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi> bring up your children, or as the word in the original inſinuates, nurſe up your children in the fear of the Lord; he would have them to ſuck in religion, if not with their Mothers milk, yet ſhortly after, aſſoon as they are capable of it.</p>
+            <p>It's ſtoried of <hi>Alexander,</hi> that he had children born and brought up in military diſcipline and exerciſe, which made them ſo victorious and valiant in battle; even ſo let all Pa<g ref="char:EOLhyphen"/>rents bring up their children in the fear of the Lord, that they may prove conſtant and couragious Soldiers under their King and Captain Jeſus Chriſt, to kill, overcome and ſub<g ref="char:EOLhyphen"/>due all the enemies of God, and their own ſouls ſalvation, ſin and their corrupt affections.</p>
+            <p>Hence it is, that <hi>David</hi> ſtileth children the Inheritance of the Lord, to denote unto us, that they ſhould be brought up with ſuch care and ſedulity, as tho they were not the children of men, but of God; indeed there is a great neceſ<g ref="char:EOLhyphen"/>ſity of this duty, that Parents inſtruct their children betimes, for by nature we are born blind and ignorant of heavenly things, therefore Parents ſhould take pains to bring their children to knowledge.</p>
+            <pb n="22" facs="tcp:38395:14"/>
+            <p> The Bears, as the Naturaliſt obſerves, when they bring forth their young ones, they are an ill favored lump, and a maſs without ſhape, but by continual licking of them they bring to ſome ſhape and form.</p>
+            <p>So thy child, who is by nature the child of wrath, by continual inſtruction and godly education, may be brought to ſome good form and faſhion, that he may underſtand and imbibe the Principles of Religion. And as the Midwiſe when the child is born, ſetteth the joynts of the child right, and ſwaddleth him that he be not <hi>vatius,</hi> therefore they are called <hi>Gnclele tippuchim, Lam.</hi> 2.20. <hi>Infantes palmarum,</hi> not becauſe they are but a ſpan long, but becauſe the Midwiſe when they are new born, ſetteth the joints with the palms of her hands, that they may be the more ſtreigh and ſtrenuous afterwards. So ſhould Parents teach their children, when they are young, and frame and fix their minds aright.</p>
+            <p>The Lord accounteth highly of this, when the Parents begin to teach their children in their tender years: children are the ſeed-corn of the Church and Commonweal, and if they be corrupted or diſtain'd in the Family, what hope is there of them, when they come to the Church or Politie?</p>
+            <p>The Phyſician ſaith, that <hi>vitium primae concoctionis non cor<g ref="char:EOLhyphen"/>rigitur in ſecunda,</hi> the faults of the firſt digeſtion are not helped in the ſecond; ſo errors committed in youth can hardly be helped in old age.</p>
+            <p>When the Prophet <hi>Eſay</hi> ſpeaketh of Chriſt, he calleth him, <hi>Pater futuri ſaeculi,</hi> the everlaſting Father, <hi>cap.</hi> 9.6. <hi>Adam</hi> was the Father of all the Children of this life, and Chriſt the ſecond <hi>Adam,</hi> is the Father of the life to come; when they beget children, they beget them only for this
+<pb n="23" facs="tcp:38395:14" rendition="simple:additions"/>life, but when they inſtruct them they may be called, <hi>Patres futuri ſaeculi,</hi> Fathers of the life to come.</p>
+            <p>Remember therefore thy Creator betimes, for the young<g ref="char:EOLhyphen"/>eſt years are the fitteſt to teach children, <hi>Prov.</hi> 20.11. <hi>A child is known by his doings, whether his works be pure or right.</hi>
+            </p>
+            <p>The boys that mocked <hi>Elias</hi> were devoured by the Bears, 2 <hi>Kings</hi> 2.24. and the <hi>Hebrews</hi> ſay, that there be ſculls of all ſizes in <hi>Golgotha.</hi>
+            </p>
+            <p>The Tree which the Lord made choice of, <hi>Jer.</hi> 1.11. was the Almond Tree, and why made he choice of that Tree, but becauſe it bloſſometh firſt.</p>
+            <p>So the Lord made choice of <hi>Jeremiah</hi> from his Infancy; the Lord liketh children when they begin to flouriſh in their young years; he liketh not of theſe <hi>autumnales arbores, Jud.</hi> 13. which begin to bud about the latter end of Harveſt.</p>
+            <p>The Church ſaith, <hi>Cant.</hi> 7.13. <hi>Omnes fructus ſervavi tibi, &amp;c.</hi> it is a happy thing when both the firſt and the latter fruits are reſerved for the Lord.</p>
+            <p>
+               <hi>Crates</hi> the Philoſopher ſaid, that he would go up to the higheſt place of the City, and cry in the Audience of the People, O men whither go ye! Why take ye ſuch pains, and toil to ſcrape riches together for your children, and have little or no care at all to train them up who ſhould enjoy them. And <hi>Plutarch</hi> ſaid, he would add but this one word, that ſuch men as theſe are like to them who are very care<g ref="char:EOLhyphen"/>ful for the Shoe, but have no regard at all for the Foot.</p>
+            <p>As Parents ſhould have a care to teach their children, ſo they ſhould make choice of good Maſters, of able, or<g ref="char:EOLhyphen"/>thodox,
+<pb n="24" facs="tcp:38395:15"/>unbyaſs'd men to inſtruct them, that may infuſe and inſtill good principles in them.</p>
+            <p>
+               <hi>Pharoah</hi>'s Daughter cauſed <hi>Moſes</hi> to be brought up in all the Sciences of <hi>Egypt, Acts</hi> 7.22. <hi>Jehoaſh</hi> had <hi>Jehojeda</hi> for his Maſter, 2 <hi>King.</hi> 12.2. And we ſee what care <hi>Theodoſius</hi> had to make choice of good Maſters for his Sons <hi>Arcadius</hi> and <hi>Honorius;</hi> and what care had <hi>Conſtantine</hi> of a Tutor for his Son <hi>Criſpus.</hi>
+            </p>
+            <p>Amongſt the cauſes of <hi>Julian</hi>'s Apoſtacy, the Hiſtory ſheweth us, that this was one, if not the greateſt, that he had two Heatheniſh Maſters who taught him, <hi>Libanius</hi> and <hi>Jamblicus,</hi> from whom he drank in to great Proſaneneſs and Impiety, Atheiſm and Debauchery.</p>
+            <p>Thirdly, As <hi>Tully</hi> ſpake of Poetry, that it was a profeſſi<g ref="char:EOLhyphen"/>on for all times, proſperity and adverſity; for all places, at home and abroad; for all ages, youth and old age; ſo is this a leſſon for all times, all places, all ages; for however the center, upon whom the lines and prejections of this doctrine do meet, are the days of our youth, and therefore may ſavour of impertinence; yet ſtrength of conſequence will induce, that old men, and they eſpecially, ſhould grow in grace, as they do in years, and increaſe in heavenly things, as they multiply their days, that ſo they may be like <hi>Veſpaſian</hi> in the Poet, <hi>melior pejore aevo,</hi> better in their worſer age; or like the Trees planted in the Houſe of the Lord, that ſtill brought forth fruit in their years, <hi>Pſalm</hi> 92.14. and herein the ſupernatural motions of the Spirit re<g ref="char:EOLhyphen"/>ſemble the natural, which are as the Philoſopher ſpake, <hi>velo<g ref="char:EOLhyphen"/>ciores in fine quam in principio,</hi> ſwifter in the end than in the beginning.</p>
+            <pb n="27" facs="tcp:38395:15"/>
+            <p> Here the Poet, as if his breaſt had been divinely influenc'd, could make this connexion, <hi>nec pietas morum rugis, &amp;c.</hi> where wither'd old age, and inexorable death do follow each the other, as the concluſion doth the premiſes, to ſpeak with the Logician.</p>
+            <p>But hear it if you pleaſe from a tongue divinely toucht, and that from a true Cherubim, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi> behold I am old, and I know not the day of my death. It's ſtoried of the Linx that he never looketh back, but <hi>Homer</hi> contra<g ref="char:EOLhyphen"/>rily deſcribeth a wiſe man, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, looking for<g ref="char:EOLhyphen"/>ward and backward, forward to things to come, and back<g ref="char:EOLhyphen"/>ward to things paſt, for by remembring what's paſt, and forecaſting things future, he ordereth things preſent; let us conclude therefore with the advice of the Apoſtle, redeem the time by our double diligence, which we have loſt by our careleſs negligence, and be ſure to <hi>Remember our Creator in the days of our youth, before the evil days come,</hi> &amp;c.</p>
+            <p>Conſider in time, if thou wilt have God to pity and help thee in thy evil days, thou muſt ſerve him in thy good days; the days of old Age are call'd evil days, <hi>aetas mala</hi> in <hi>Plautus,</hi> becauſe they bring many pains and troubles along with them, <hi>vitae hyems,</hi> the Winter of our Life, as <hi>So<g ref="char:EOLhyphen"/>lon</hi> call'd it. As the days of youth are called <hi>aetas bona</hi> in <hi>Cicero,</hi> and <hi>aetas optima</hi> in <hi>Seneca,</hi> becauſe then nature is ſtrong and vigorous, and doth moſt fully exert and injoy it ſelf.</p>
+            <p>Laſtly, Conſider that thine old age will bring evils enough of its own, do not thou therefore bring upon it the bitterneſs and burthen of all thy youthful follies.</p>
+            <p>Conſider once more, that Repentance is a hard work, when thy ſins are fewer, and thy ſtrength greater; when
+<pb n="28" facs="tcp:38395:16"/>infirmities bend thy back, do not keep thine iniquities to break it.</p>
+            <p>Since the days of old age will be evil days, lay up as ma<g ref="char:EOLhyphen"/>ny Graces as thou canſt to ſweeten it, as many comforts as thou canſt to ſtrengthen thy heart againſt the evils of it; gather in Summer againſt ſuch a Winter as this, <hi>Prov.</hi> 10.5. that old age may not be to thee an evil age, but as it was to faithful <hi>Abraham,</hi> a good old age, <hi>Gen.</hi> 25.8.</p>
+            <p>Be faithful therefore unto the death, and you ſhall receive the Crown of Life; continue unto the end ſo ſhall you be ſafe. The Preacher teacheth, that the days will come, when we ſhall ſay, we have no pleaſure in them; when the Keepers of the Houſe ſhall tremble, that is, the hands which ſafeguard the body from injuries, ſhall ſhake as in a Palſy; the ſtrong men ſhall bow themſelves, that is, the Legs, which bare up the weight of the body, ſhall begin to fail and wax feeble.</p>
+            <p>The Grinders ſhall ceaſe; that is, the Teeth appointed to chew the meat, either wax looſe, or elſe are loſt. They wax dark that look out of the windows; that is, the Eyes of the body (which are as the windows of the houſe to give light) ſhall decay, and grow weaker and weaker, that they cannot behold the brightneſs of the Sun.</p>
+            <p>The doors ſhall be ſhut without by the baſe ſound of the Grinders; that is, the Lips which are as two doors or gates, ſhall ſcarce be able to open themſelves, being become ſtiff. He ſhall riſe up at the voice of the Bird; that is, the leaſt noiſe ſhall be able to awake him; he that while he was young ſlept ſoundly and ſweetly, ſo that the ſound of the Trumpet could hardly move or alarm him, is now by the Crowing of the Cock, or the Chirping of a Bird raiſed and diſquieted.</p>
+            <pb n="27" facs="tcp:38395:16" rendition="simple:additions"/>
+            <p> All the Daughters of Singing ſhall be abaſed; that is the Ears, and other inſtruments of Muſick, ſhall be ſo weakned and dulled, that they ſhall take no pleaſure nor delight therein, as <hi>Barzillai</hi> confeſſed unto <hi>David,</hi> 2 <hi>Sam.</hi> 19.36. Alſo they ſhall be afraid of the high thing; that is, when once they grow crooked with age, every plain way will ſeem rough, and every ſtone a mountain unto them.</p>
+            <p>And the Almond Tree ſhall flouriſh; that is, their head ſhall be renowned with the comely ornament of white hairs, as the beautiful bloſſoms of an Almond Tree, <hi>&amp;c.</hi>
+            </p>
+            <p>Thus doth the Preacher deſcribe the diſcommodities and difficulties of old age, which approacheth unto us all, and will in the end overtake us, to the end we ſhould learn to remember our Creator in the days of our youth.</p>
+            <p>Now unto God the Father Almighty, who is the ancient of days, to God the Son, and God the Holy Ghoſt, three Perſons but one God, be made all Prayers, rendred all Thanks, yielded all Honor, Adoration, and New Obedience, henceforth and for ever, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
